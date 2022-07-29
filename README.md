@@ -1,17 +1,13 @@
-## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓, Web and Mobile Developper 🚀,Team Member of MANTA AUV Teknofest Team
-- ⚓ I’m currently working on a MANTA AUV Teknofest Team.
+## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓, Web and Mobile Developper 🚀
 - 🌱 I’m currently learning.
-- 🤖 I’m into artificial intelligence and 3D Printers.
+- 🤖 I’m into artificial intelligence,computer vision and 3D Printers.
 - ⚡ I love Formula 1 🏁, play football and basketball 🏀 ⚽, reading📕 and watching movies🎥
 
 
 ## ⏲ What we are doing now:
-- I'm working on embedded software in the MANTA AUV team🚀,
 - I'm currently learning Tensorflow,
-- I'm building 2 websites,
-- I'm designing logo, instagram post and banner via Adobe Illustrator,
+- I'm designing logos, instagram post images and banners via Adobe Illustrator,
 - I'm developing an app with my team 👨🏼‍🤝‍👨🏻,
-- I also work as a FreeLancer 🆓.
 
 
 ### 📩 Connect with me:
@@ -44,7 +40,7 @@
 
 
 ## 👩‍💻📱 My Released Applications and Websites
-- <a href="https://beypazaribelediyesigenclikspor.com/">https://beypazaribelediyesigenclikspor.com<img align="left" alt="Beypazarı Municipality Youth and Sports Club" width="24px" src="https://beypazaribelediyesigenclikspor.com/img/unnamed.png" /></a>
+- <a href="https://beypazaribelediyesigenclikspor.com/">https://beypazaribelediyesigenclikspor.com</a>
 
 - <a href="https://apfldernek.com/">https://apfldernek.com<img align="left" alt="Ankara Pursaklar Science High School Alumni and Members Association" width="24px" src="https://apfldernek.com/images/favicon.ico" /></a>
 
