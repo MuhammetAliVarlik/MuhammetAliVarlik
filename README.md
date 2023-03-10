@@ -1,20 +1,20 @@
-## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓, Web and Mobile Developper 🚀
+## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓,and RPO Engineer 🚀
 - 🌱 I’m currently learning.
 - 🤖 I’m into artificial intelligence,computer vision and 3D Printers.
 - ⚡ I love Formula 1 🏁, play football and basketball 🏀 ⚽, reading📕 and watching movies🎥
 
 
-## ⏲ What we are doing now:
+## ⏲ What I am doing now:
+- I'm a RPO Engineer at SIEMENS,
 - I'm currently learning Tensorflow,
-- I'm designing logos, instagram post images and banners via Adobe Illustrator,
-- I'm developing an app with my team 👨🏼‍🤝‍👨🏻,
+- I'm working on SLAM applications for my graduation project
+
 
 
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="gmail" background="white" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
 
