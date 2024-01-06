@@ -1,20 +1,20 @@
-## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓,and RPO Engineer 🚀
+## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓
 - 🌱 I’m currently learning.
-- 🤖 I’m into artificial intelligence,computer vision and 3D Printers.
+- 🤖 I’m into artificial intelligence and computer vision.
 - ⚡ I love Formula 1 🏁, play football and basketball 🏀 ⚽, reading📕 and watching movies🎥
 
 
 ## ⏲ What I am doing now:
-- I'm a RPO Engineer at SIEMENS,
-- I'm currently learning Tensorflow,
+- I'm a senior student at the faculty of electrical electronics engineering.,
+- I'm currently learning C++,
 - I'm working on SLAM applications for my graduation project
 
 
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="gmail" background="white" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="gmail" background="white" height="24" width="24" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
 <br />
 
@@ -37,13 +37,6 @@
 [<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Adobe Illustrator" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" />][illustrator]
 <br/>
-
-
-## 👩‍💻📱 My Released Applications and Websites
-- <a href="https://beypazaribelediyesigenclikspor.com/">https://beypazaribelediyesigenclikspor.com</a>
-
-- <a href="https://apfldernek.com/">https://apfldernek.com<img align="left" alt="Ankara Pursaklar Science High School Alumni and Members Association" width="24px" src="https://apfldernek.com/images/favicon.ico" /></a>
-
 
 
 
