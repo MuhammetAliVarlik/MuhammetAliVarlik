@@ -1,13 +1,13 @@
-## 👋 Hi, I’m @MuhammetAliVarlik I'm a Student 👨‍🎓
+## 👋 Hi, I’m @MuhammetAliVarlik I'm a Data Scientist 👨‍🎓
 - 🌱 I’m currently learning.
 - 🤖 I’m into artificial intelligence and computer vision.
 - ⚡ I love Formula 1 🏁, play football and basketball 🏀 ⚽, reading📕 and watching movies🎥
 
 
 ## ⏲ What I am doing now:
-- I'm a senior student at the faculty of electrical electronics engineering.,
-- I'm currently learning C++,
-- I'm working on SLAM applications for my graduation project
+- I'm a recently graduated from faculty of electrical electronics engineering.,
+- I'm currently learning Big Data Analysis,
+- I'm working on AI-Driven Data Projects
 
 
 
@@ -50,21 +50,16 @@
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/muhammetalivarlik/
 [linkedin]: https://tr.linkedin.com/in/muhammet-ali-varl%C4%B1k-4a053519a
 [gmail]: mailto:iletisim.muhammetalivarlik@gmail.com
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [c]: https://www.iso.org/standard/74528.html
-[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [html]: https://html.com/
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
 [javascript]: https://www.javascript.com/
 [php]: https://www.php.net/
-[solidworks]: https://www.solidworks.com/tr
-[android]: https://www.android.com/
 [github]: https://github.com/MuhammetAliVarlik
 [python]: https://www.python.org/
 [mysql]: https://www.mysql.com/
-[illustrator]: https://www.adobe.com/tr/products/illustrator.html
